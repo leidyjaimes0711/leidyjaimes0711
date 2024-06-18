@@ -10,8 +10,9 @@ Nowadays I am in learning about various tools and frameworks helpful to create w
 </p>
 
 <ul>
+<li> 🎓 I graduated from Servicio Nacional de Aprendizaje as an IT technician.</li>
 <li>🔭 I’m currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
-<li>🌱 I’m currently learning Go</li>
+<li>🌱 I’m currently studying the Certified Tech Developer at Digital House</li>
 <li>👯 I’m looking to collaborate on educational online projects.</li>
 <li>💬 Ask me about ...</li>
 <li>  📫 How to reach me: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
