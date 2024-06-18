@@ -15,15 +15,12 @@ Nice to meet you. I'm Leidy Jaimes, junior full stack developer from Bucaramanga
 <li>😄 Pronouns: she, her</li>
 <li>⚡ Fun fact: "I love cats and plants."</li>
 
-### I'm looking to collaborate on...
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Go, PHP, C#, Python, Java, HTML5
+- ⚙️ React, Vue, jQuery
+- 👁️ SASS, CSS, Bootstrap
+- 💽 MySQL, SQL, MongoDB, SQLite
+- 🧠 Version Control, Testing, Agile methodologies
 
-<li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
-<li><b>Languages:</b> Python, JavaScript, TypeScript</li>
-<li><b>Frameworks:</b> Django, React</li>
-<li>Testing</li>
-<li><b>Version control system:</b> Git</li>
-<li><b>Data base engines:</b> MySQL, PostgreSQL, MariaDB</li>
-<li>Clean code</li> 
-<li>Agile methodologies</li>
-</ul>
   
+
