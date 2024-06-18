@@ -6,13 +6,13 @@ I am currently looking for job opportunities in this field, which I am passionat
 Nowadays I am in learning about various tools and frameworks helpful to create web interfaces in a quick and easy way. I am learning React, JavaScript and Golang.</p>
 
 <ul>
-<li>- 🔭 I’m currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
-<li>- 🌱 I’m currently learning Go</li>
-<li>- 👯 I’m looking to collaborate on educational online projects.</li>
-<li>- 💬 Ask me about ...</li>
-<li>- 📫 How to reach me: leidyjaimes0711gmail.com </li>
-<li>- 😄 Pronouns: she, her</li>
-<li>- ⚡ Fun fact: I love cats and plants.</li>
+<li>🔭 I’m currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
+<li>🌱 I’m currently learning Go</li>
+<li>👯 I’m looking to collaborate on educational online projects.</li>
+<li>💬 Ask me about ...</li>
+<li>📫 How to reach me: leidyjaimes0711gmail.com </li>
+<li>😄 Pronouns: she, her</li>
+<li>⚡ Fun fact: I love cats and plants.</li>
 <li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
 <li><b>Languages:</b> Python, JavaScript, TypeScript</li>
 <li><b>Frameworks:</b> Django, React</li>
