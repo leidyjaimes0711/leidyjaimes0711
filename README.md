@@ -26,5 +26,4 @@ Nice to meet you. I'm Leidy Jaimes, junior full stack developer from Bucaramanga
 <li>Clean code</li> 
 <li>Agile methodologies</li>
 </ul>
-
-<p align="justify">Regarding my teaching career, I have been teaching in the best language institutes in my city for more than 4 years. I have expanded my knowledge in the areas of teaching and university dynamics as well as educational psychology through complementary education.</p>
+  
