@@ -2,7 +2,8 @@
 
 
 <p align="justify">
-Nice to meet you. 
+Nice to meet you. I'm Hi, I'm Leidy Jaimes, junior full stack developer from Bucaramanga, Colombia.
+
 </p>
 
 <ul>
