@@ -10,7 +10,7 @@ Nowadays I am in learning about various tools and frameworks helpful to create w
 <li>🌱 I’m currently learning Go</li>
 <li>👯 I’m looking to collaborate on educational online projects.</li>
 <li>💬 Ask me about ...</li>
-<li>📫 How to reach me: leidyjaimes0711gmail.com </li>
+<li>📫 How to reach me: <a> leidyjaimes0711gmail.com </a>  </li>
 <li>😄 Pronouns: she, her</li>
 <li>⚡ Fun fact: I love cats and plants.</li>
 <li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
