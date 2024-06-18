@@ -5,13 +5,22 @@
 I am currently looking for job opportunities in this field, which I am passionate about. 
 Nowadays I am in learning about various tools and frameworks helpful to create web interfaces in a quick and easy way. I am learning React, JavaScript and Golang.</p>
 <ul>
+
+  <li>- 🔭 I’m currently working on ...</li>
+<li>- 🌱 I’m currently learning ...</li>
+<li>- 👯 I’m looking to collaborate on ...</li>
+<li>- 🤔 I’m looking for help with ...</li>
+<li>- 💬 Ask me about ...</li>
+<li>- 📫 How to reach me: ...</li>
+<li>- 😄 Pronouns: ...</li>
+<li>- ⚡ Fun fact: ...</li>
 <li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
 <li><b>Languages:</b> Python, JavaScript, TypeScript</li>
 <li><b>Frameworks:</b> Django, React</li>
 <li>Testing</li>
 <li><b>Version control system:</b> Git</li>
 <li><b>Data base engines:</b> MySQL, PostgreSQL, MariaDB</li>
-<li>Clean code</li>
+<li>Clean code</li> 
 <li>Agile methodologies</li>
 </ul>
 
