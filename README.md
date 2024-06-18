@@ -3,9 +3,6 @@
 
 <p align="justify">
 Nice to meet you. I am Leidy Jaimes, junior full stack developer freelancer.
-  I consider myself a patient and hardworking person with teamwork and individual abilities. Therefore, I will always be ready and delighted to assist my coworkers. I am an English teacher, so my English proficiency level is high. I have learned the necessary concepts related to software development and design through different online courses I have been taking. I am ready to learn new technologies related to the problems I need to address.
-I am currently looking for job opportunities in this field, which I am passionate about. 
-Nowadays I am in learning about various tools and frameworks helpful to create web interfaces in a quick and easy way. I am learning React, JavaScript and Golang.
 
 </p>
 
