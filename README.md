@@ -4,16 +4,15 @@
 <p align="justify">I consider myself a patient and hardworking person with teamwork and individual abilities. Therefore, I will always be ready and delighted to assist my coworkers. I am an English teacher, so my English proficiency level is high. I have learned the necessary concepts related to software development and design through different online courses I have been taking. I am ready to learn new technologies related to the problems I need to address.
 I am currently looking for job opportunities in this field, which I am passionate about. 
 Nowadays I am in learning about various tools and frameworks helpful to create web interfaces in a quick and easy way. I am learning React, JavaScript and Golang.</p>
-<ul>
 
-  <li>- 🔭 I’m currently working on ...</li>
-<li>- 🌱 I’m currently learning ...</li>
-<li>- 👯 I’m looking to collaborate on ...</li>
-<li>- 🤔 I’m looking for help with ...</li>
+<ul>
+<li>- 🔭 I’m currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
+<li>- 🌱 I’m currently learning Go</li>
+<li>- 👯 I’m looking to collaborate on educational online projects.</li>
 <li>- 💬 Ask me about ...</li>
-<li>- 📫 How to reach me: ...</li>
-<li>- 😄 Pronouns: ...</li>
-<li>- ⚡ Fun fact: ...</li>
+<li>- 📫 How to reach me: leidyjaimes0711gmail.com </li>
+<li>- 😄 Pronouns: she, her</li>
+<li>- ⚡ Fun fact: I love cats and plants.</li>
 <li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
 <li><b>Languages:</b> Python, JavaScript, TypeScript</li>
 <li><b>Frameworks:</b> Django, React</li>
