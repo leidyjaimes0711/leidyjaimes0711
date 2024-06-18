@@ -8,12 +8,11 @@ Nice to meet you.
 <ul>
 <li> 🎓 Graduated from Servicio Nacional de Aprendizaje as an IT technician.</li>
 <li>🔭 Currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
-<li>🌱 Currently studying the Certified Tech Developer program at Digital House</li>
+<li>🌱 Currently studying the Certified Tech Developer program at Digital House.</li>
 <li>👯 Looking to collaborate on educational online projects.</li>
-<li>💬 Ask me about ...</li>
-<li> 📫 How to reach me: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
+<li> 📫 How to reach: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
 <li>😄 Pronouns: she, her</li>
-<li>⚡ Fun fact: I love cats and plants.</li>
+<li>⚡ Fun fact: "I love cats and plants."</li>
 
   
 <li><b>Main skills:</b> Html, CSS, SaaS, Bootstrap</li>
