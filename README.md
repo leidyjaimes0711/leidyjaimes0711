@@ -7,8 +7,8 @@ Nice to meet you.
 
 <ul>
 <li> 🎓 Graduated from Servicio Nacional de Aprendizaje as an IT technician.</li>
-<li>🔭 Currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
-<li>🌱 Currently studying the Certified Tech Developer program at Digital House; awarded scholarship by Mercado Libre and Globant.</li>
+<li>🌱 Studying the Certified Tech Developer program at Digital House; awarded scholarship by Mercado Libre and Globant.</li>
+<li>🔭 Working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
 <li>👯 Looking to collaborate on educational online projects.</li>
 <li> 📫 How to reach: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
 <li>😄 Pronouns: she, her</li>
