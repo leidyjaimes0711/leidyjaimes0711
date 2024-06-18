@@ -2,17 +2,16 @@
 
 
 <p align="justify">
-Nice to meet you. I am Leidy Jaimes, junior full stack developer freelancer.
-
+Nice to meet you. 
 </p>
 
 <ul>
-<li> 🎓 I graduated from Servicio Nacional de Aprendizaje as an IT technician.</li>
-<li>🔭 I’m currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
-<li>🌱 I’m currently studying the Certified Tech Developer at Digital House</li>
-<li>👯 I’m looking to collaborate on educational online projects.</li>
+<li> 🎓 Graduated from Servicio Nacional de Aprendizaje as an IT technician.</li>
+<li>🔭 Currently working at Corporación Unificada Nacional de Educación Superior (CUN) as an English teacher.</li>
+<li>🌱 Currently studying the Certified Tech Developer program at Digital House</li>
+<li>👯 Looking to collaborate on educational online projects.</li>
 <li>💬 Ask me about ...</li>
-<li>  📫 How to reach me: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
+<li> 📫 How to reach me: <a href="mailto: leidyjaimes0711@gmail.com">leidyjaimes0711@gmail.com</a></li>
 <li>😄 Pronouns: she, her</li>
 <li>⚡ Fun fact: I love cats and plants.</li>
 
