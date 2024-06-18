@@ -22,5 +22,11 @@ Nice to meet you. I'm Leidy Jaimes, junior full stack developer from Bucaramanga
 - 💽 MySQL, SQL, MongoDB, SQLite
 - 🧠 Version Control, Testing, Agile methodologies
 
+## Repositories
+- https://leidyjaimes0711.github.io/learningEnglish/
+- https://leidyjaimes0711.github.io/blogdecafe/
+- https://leidyjaimes0711.github.io/tiendaRopa/
+- https://leidyjaimes0711.github.io/freelancer/
+- https://leidyjaimes0711.github.io/festival_musica/
   
 
